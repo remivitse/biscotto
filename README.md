@@ -8,7 +8,7 @@ You are going to need a key from [API Ninjas](https://api-ninjas.com/) in order 
 * Create an account on API Ninjas
 * Copy your API key from your dashboard
 * Paste it in a new `.env` file at the project root
-> The .env file should look like this:
+> The `.env` file should look like this:
 > ```
 > API_NINJAS_KEY=YOUR_API_KEY
 > 
